@@ -2,8 +2,8 @@
 
 #### CSS Styling for Cats
 
-*They are aligned
-*They have the upside down triangles
-*They have hashtags!
+* They are aligned
+* They have the upside down triangles
+* They have hashtags!
 
 [Click for some cats](https://github.com/hyonakim/catproject)
