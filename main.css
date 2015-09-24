@@ -36,3 +36,50 @@ img {
   bottom: 34px;
   right: 8px;
 }
+
+.image-footer {
+  padding: 10px;
+}
+
+.image-number {
+  float: left;
+  display: inline;
+  color: #D2D2D2;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+.image-number:before {
+  content: "#";
+  display: inline-block;
+}
+
+.image-caption {
+  display: inline;
+  float: right;
+}
+
+.image-caption span {
+  color: #6b6763;
+  font-family: arial;
+  font-weight: bold;
+  font-size: 12px;
+}
+.image-caption a {
+  text-decoration: none;
+  color: #252526;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 12px;
+}
+
+.authors {
+  float: right;
+  padding-left: 5px;
+}
+
+.authors img {
+  width: 25px;
+  border: none;
+}
+
