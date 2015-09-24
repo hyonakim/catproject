@@ -1,6 +1,6 @@
 # 3 Awesome Cats in a Row with Triangles!
 
-(h4)#### CSS Styling for Cats
+#### CSS Styling for Cats
 
 *They are aligned
 *They have the upside down triangles
