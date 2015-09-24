@@ -1,0 +1,15 @@
+
+* {
+  list-style: none;
+}
+
+ul {
+  padding: 0;
+}
+
+img {
+  width: 340px;
+  border: 1px solid #D2D2D2;
+  border-radius: 2px;
+}
+
